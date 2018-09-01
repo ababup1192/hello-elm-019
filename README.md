@@ -20,5 +20,6 @@ $ npm test
 $ npm run build
 # (Manual)
 # $ npx elm make src/Main.elm
-// Open browser index.html
+
+# Open Browser index.html
 ```
