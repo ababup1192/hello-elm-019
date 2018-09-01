@@ -9,12 +9,16 @@ $ npm i
 ## Test
 
 ```shell
-$ npx elm-test
+$ npm test
+// manual
+// $ npx elm-test
 ```
 
 ## Build
 
 ```shell
-$ npx elm make src/Main.elm
-$ open index.html
+$ npm run build
+// manual
+// $ npx elm make src/Main.elm
+// Open browser index.html
 ```
